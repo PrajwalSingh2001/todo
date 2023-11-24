@@ -1,1 +1,1 @@
-# todo
+# qr generator
